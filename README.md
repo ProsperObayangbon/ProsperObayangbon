@@ -20,17 +20,17 @@ My work focuses on building dashboards people actually use, automating repetitiv
 Outside of data, i enjoy reading, which helps me stay creative and balanced. What really motivate me is that "aha moment when data uncovers something meaningfu and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://ProsperObayangbon.github.io/)
+<!--### [🏆 Check Out My Full Portfolio Website](https://ProsperObayangbon.github.io/) -->
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+<!-- - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Another skill, e.g., Cloud data warehousing with Google BigQuery.] -->
 
 ## 🛠️ Technical Skillset
 
